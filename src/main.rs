@@ -4,7 +4,7 @@ mod wallpaperflare;
 use std::collections::HashSet;
 use std::path::Path;
 
-const CDN_BASE: &str = "https://raw.githubusercontent.com/yapude/wallpapers/main/assets";
+const CDN_BASE: &str = "https://raw.githubusercontent.com/oliverMinro/wallpapers/main/assets";
 
 use std::sync::Arc;
 use tokio::sync::{Mutex, Semaphore};
